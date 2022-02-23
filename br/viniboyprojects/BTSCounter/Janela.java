@@ -26,7 +26,7 @@ public class Janela extends JFrame {
 
 	public Janela() {
 		setIconImage(Toolkit.getDefaultToolkit().getImage(Janela.class.getResource("/resources/lysy!.jpg")));
-		setTitle("Livia Yourself Speak Yourself");
+		setTitle("Live Yourself Speak Yourself");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 726, 386);
 		contentPane = new JPanel();
